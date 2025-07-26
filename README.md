@@ -7,6 +7,8 @@ Handy for video games with text-based controls. The tool uses a special delay me
 
 https://github.com/user-attachments/assets/f4043da5-456a-4a34-8e5b-fb6b18611f6d
 
+*Game name: The Crimson Diamond*
+
 ## Installation
 
 1. [Download Python 3.10+](https://www.python.org/downloads/). Ensure pip is available.
