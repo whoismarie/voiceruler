@@ -5,7 +5,7 @@ Handy for video games with text-based controls. The tool uses a special delay me
 
 ## Showcase
 
-to-do
+https://github.com/user-attachments/assets/f4043da5-456a-4a34-8e5b-fb6b18611f6d
 
 ## Installation
 
@@ -29,7 +29,8 @@ to-do
     ```
     Make sure to specify the full path to the script relatively to the current folder.
 2. Speak to verify that the command line accepts input. It will use your OS-default mic.
-3. Launch the game or another app and try controlling it with voice.
+   ![img](cmd_input_example.png)
+4. Launch the game or another app and try controlling it with voice.
 
 To stop the script, press `Ctrl+C` while in the command line.
 
